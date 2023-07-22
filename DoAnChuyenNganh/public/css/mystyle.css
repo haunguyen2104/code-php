@@ -1,0 +1,21 @@
+#btninput {
+    text-align:center;
+}
+#btninput input  {
+    font-size:25px; width:120px;
+    
+}
+#formupdate h1{
+    color:#000;
+}
+#formupdate form table tr td input #inputtext{
+    width:400px;
+}
+#card-login{
+    border:2px solid black;
+    background:#ffc107;
+    border-radius: 5px;
+    margin:0px 100px;
+    height:350px; width:500px;margin-left: 700px;
+}
+

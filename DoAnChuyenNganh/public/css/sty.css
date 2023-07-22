@@ -1,0 +1,64 @@
+.d-flex {
+    margin-top: 24px;
+    display: flex!important;
+}
+#shoppingcart{
+    margin-top: 24px;
+    border: 1px solid #ffc107;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 0.5cm;
+    padding: 5px 8px;
+    width: 150x;
+    height: 38px;
+}
+#login{
+    margin-top: auto;
+    margin-left: 0.5cm;
+}
+#sale{
+    margin-top:2cm;    margin-left:auto;
+}
+.bg-black{
+    background: black;
+}
+#head-qc{
+    margin-left: -12px;
+}
+.nav-link, .navbar-brand{
+    color: #000;
+}
+.row{
+    margin-top: 0.7cm;
+}
+#tieude{
+    color: rgb(240, 216, 6);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background: black;
+    margin-top: 25px;
+    margin-bottom: -27px;
+}
+.card{
+    margin-top: 15px;
+    border: 1px solid black;
+}
+.card-body{
+    height: 180px;
+    text-decoration:none;
+}
+#brandname{
+    color: #ffc107;
+    background: #000;
+    margin-top: -10px;
+}
+
+#page{
+    justify-content: center;
+}
+
+

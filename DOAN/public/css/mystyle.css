@@ -1,0 +1,67 @@
+#tieude{
+	color: rgb(240, 216, 6);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background: black;
+    margin-top: 25px;
+    margin-bottom: 	10px;
+}
+.d-flex {
+    margin-top: 24px;
+    display: flex!important;
+}
+.bg-black{
+	background: #000;
+}
+#navbarSupportedContent{
+	font-weight: 	bold	;
+	color: 	#000000;
+}
+#sale{
+    margin-top:2cm;    margin-left:auto;
+}
+#shoppingcart{
+    margin-top: 24px;
+
+    border: 1px solid #ffc107;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 0.5cm;
+    padding: 5px 8px;
+    width: 150x;
+    height: 38px;
+}
+#login{
+    margin-top: auto;
+    margin-left: 0.5cm;
+}
+.card-img-top	{
+
+}
+.card{
+    margin-bottom: 15px;
+    border: 1px solid black;
+
+    
+}
+.card-body{
+    height: 180px;
+    text-decoration:none;
+}
+.card-title	{
+	text-decoration: none; 
+	color:#000;
+	font-weight: bold
+}
+#paging{
+	text-align: 	center	;
+	display: inline-block;
+}
+#brandname{
+    color: red;
+    font-size: 200px;
+}

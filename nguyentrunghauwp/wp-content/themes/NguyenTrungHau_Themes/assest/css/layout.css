@@ -1,0 +1,137 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}
+.product-item
+{
+    border: 1px solid rgb(248, 242, 242);
+}
+.footer-menu ul
+{
+  padding: 0px;
+  margin: 0px;
+}
+.footer-menu ul li 
+{
+  list-style-type: none;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+/*Home*/
+h3.home_title
+{
+  font-size: 22px;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgb(0,0,0);
+  color: rgb(0, 0, 0);
+}
+.product-item
+{
+  border: 1px solid rgb(248, 242, 242);
+}
+.product-item .product-info h3
+{
+  font-size: 20px;
+}
+.product-item .product-info h3 a
+{
+  text-decoration: none;
+}
+/*Category.php*/
+h3.category_title
+{
+   border-bottom: 1px solid #ccc; 
+}
+.post_category_item a
+{
+  text-decoration: none;  
+}
+.post_category_item h3.post_title 
+{
+  padding: 0px;
+  margin: 0px;
+}
+.post_category_item h3.post_title a
+{
+    font-size: 18px;
+    color: red;
+}
+.menu-footer ul
+{
+  padding: 0px;
+  margin: 0px;
+}
+.menu-footer ul li 
+{
+  list-style: none;
+}
+.menu-footer ul li a
+{
+  text-decoration: none;
+}
+li.widget woocommerce widget_product_categories
+{
+  list-style: none;
+}
+input#s {
+  width: 83%;
+  height: auto;
+  margin: 10px 0px;
+}
+
+@media screen and (max-width: 950px)
+{
+input#s {
+  width: 71%;
+  height: auto;
+  margin: 10px 0px;
+}
+}
+
+
+button.tim-tintuc {
+  background: #4285f4;
+  color: #fff;
+  font-size: 16px;
+  padding: 6px 20px;
+  font-weight: bold;
+}
+
+a{
+  color:#a57272;
+  text-decoration: none;
+}
+
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.footer-menu div li{ list-style: none;}
+.product-info div ul li {list-style: square;}
+
+input#s {
+  width: 83%;
+  height: auto;
+  margin: 10px 0px;
+}
+
+@media screen and (max-width: 950px)
+{
+input#s {
+  width: 71%;
+  height: auto;
+  margin: 10px 0px;
+}
+}
+
+
+button.tim-tintuc {
+  background: #4285f4;
+  color: #fff;
+  font-size: 16px;
+  padding: 6px 20px;
+  font-weight: bold;
+}
